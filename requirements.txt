@@ -3,3 +3,4 @@ playwright-stealth==1.0.6
 pandas
 openpyxl
 flask
+setuptools
